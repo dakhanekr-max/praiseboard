@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Thank You Application (PraiseBoard)
 
 This project contains the `PraiseBoard` smart contract, designed to demonstrate a simple decentralized application (dApp) using Hardhat.
@@ -42,3 +43,6 @@ npx hardhat run scripts/deploy.ts
 - `test/`: Test files for testing your contracts
 - `scripts/`: Deployment and interaction scripts
 - `hardhat.config.ts`: Configuration file for Hardhat
+=======
+# praiseboard
+>>>>>>> 7b3b5f594a3ae1ca08c92f43d15057ce3922b1ae
